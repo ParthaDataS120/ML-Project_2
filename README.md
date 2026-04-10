@@ -39,8 +39,8 @@ scikit-learn.
 ### 1. Data Loading
 
 ``` python
-from sklearn.datasets import load_breast_cancer
-data = load_breast_cancer()
+import pandas as pd
+df=pd read_csv("Cancer_Data.csv")
 ```
 
 ### 2. Data Preprocessing
