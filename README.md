@@ -40,7 +40,7 @@ scikit-learn.
 
 ``` python
 import pandas as pd
-df=pd read_csv("Cancer_Data.csv")
+df=pd.read_csv("Cancer_Data.csv")
 ```
 
 ### 2. Data Preprocessing
