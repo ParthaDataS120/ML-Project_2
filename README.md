@@ -92,24 +92,16 @@ depending on parameters and splits).
 
 1.  Install dependencies: pip install numpy pandas matplotlib seaborn
     scikit-learn
+2. if you're using jupyter cell: !pip install numpy pandas matplotlib seaborn
+    scikit-learn
 
-2.  Run the notebook: jupyter notebook
+3.  Run the notebook: jupyter notebook
     Breast_Cancer_Prediction_test.ipynb
 
 ## Project Structure
 
 Breast-Cancer-Prediction/ │── Breast_Cancer_Prediction_test.ipynb │──
 README.md
-
-## Future Improvements
-
--   Hyperparameter tuning using GridSearchCV
--   Model comparison (SVM, Logistic Regression, KNN)
--   Deployment using Flask or Streamlit
-
-## License
-
-No license specified.
 
 ## Author
 
